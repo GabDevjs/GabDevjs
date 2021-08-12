@@ -1,8 +1,4 @@
-### Olá! eu sou o Flavio Gabriel
-
-
-- 🌱 Hoje em dia estudo Node.js/Php7
-   
+### Olá! eu sou o Flavio Gabriel   
   ##
   
 
