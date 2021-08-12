@@ -15,5 +15,5 @@
 </div>
   
   
- ![Snake animation](https://github.com/gabrieljs77/gabrieljs77/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/GabrielJS77/GabrielJS77/blob/output/github-contribution-grid-snake.svg)
   
