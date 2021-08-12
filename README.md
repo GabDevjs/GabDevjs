@@ -15,5 +15,5 @@
 </div>
   
   
- ![Snake animation](https://github.com/GabrielJS77/GabrielJS77/blob/main/README.md)
+ ![Snake animation](https://github.com/GabrielJS77)
   
