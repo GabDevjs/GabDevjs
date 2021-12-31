@@ -1,6 +1,6 @@
 # :octocat: Flavio Gabriel  
 
-Estudante e entusiasta de desenvolvimento de software, freelancer full stack
+Student and software development enthusiast, full stack freelancer
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/GabDevjs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/flavio-gabriel77/)
