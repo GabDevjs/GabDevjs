@@ -1,6 +1,10 @@
 # :octocat: Flavio Gabriel  
 
-Student and software development enthusiast, full stack freelancer
+I'm a devoted developer, at the beginning of what I plan to be a long and successful career, which I'm in love with, and possess 1 year experience in Javascript, HTML/Css, Wordpress, React, NodeJs, Php and Python, programming different types of applications for local clients, and for diverse freelancer platforms, from simple blogs, Landing Pages and e-commerce.
+
+Focused on optimizing the UX, and making applications more fluid and optimized, without losing quality.
+
+In your company, I look for the opportunity to create better web sites valuing the user experience, with liability and commitment.
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/GabDevjs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/flavio-gabriel77/)
