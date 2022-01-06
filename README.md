@@ -1,6 +1,6 @@
 # :octocat: Flavio Gabriel  
 
-I'm a devoted developer, at the beginning of what I plan to be a long and successful career, which I'm in love with, and possess 1 year experience in Javascript, HTML/Css, Wordpress, React, NodeJs, Php and Python, programming different types of applications for local clients, and for diverse freelancer platforms, from simple blogs, Landing Pages and e-commerce.
+I'm a devoted developer, at the beginning of what I plan to be a long and successful career, which I'm in love with, and possess 1 year experience in Javascript, HTML/Css, Wordpress, React and NodeJs programming different types of applications for local clients, and for diverse freelancer platforms, from simple blogs, Landing Pages and e-commerce.
 
 Focused on optimizing the UX, and making applications more fluid and optimized, without losing quality.
 
