@@ -1,10 +1,10 @@
 # :octocat: Flavio Gabriel  
+Sou um dedicado desenvolvedor web, no início do que pretendo ser uma longa e bem-sucedida carreira, pela qual sou apaixonado, possuo 2 ano de experiência em Typescript, Javascript,  HTML/Css, React, Next e NodeJs, programando diferentes tipos de aplicações para clientes locais, e para diversas plataformas freelancer, criando desde simples blogs e Landing Pages ate mesmo e-commerce sempre focado em otimizar o Ux, e tornar os aplicativos mais fluidos e otimizados, com o máximo de qualidade.
 
-I'm a devoted developer, at the beginning of what I plan to be a long and successful career, which I'm in love with, and possess 1 year experience in Javascript, HTML/Css, Wordpress, React and NodeJs programming different types of applications for local clients, and for diverse freelancer platforms, from simple blogs, Landing Pages and e-commerce.
+Em sua empresa procuro a oportunidade de criar melhores web applications, valorizando a experiência do usuário, com responsabilidade e comprometimento
 
-Focused on optimizing the UX, and making applications more fluid and optimized, without losing quality.
-
-In your company, I look for the opportunity to create better web sites valuing the user experience, with liability and commitment.
+Atualmente trabalho em uma empresa de desenvolvimento de software
+trabalhando como Full-stack Typescript
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/GabDevjs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/flavio-gabriel77/)
