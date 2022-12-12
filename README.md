@@ -1,4 +1,4 @@
-# :octocat: Flavio Gabriel  
+# :octocat: Ola, meu nome é Flavio Gabriel.   
 Sou um dedicado desenvolvedor web, no início do que pretendo ser uma longa e bem-sucedida carreira, pela qual sou apaixonado, possuo 2 ano de experiência em Typescript, Javascript,  HTML/Css, React, Next e NodeJs, programando diferentes tipos de aplicações para clientes locais, e para diversas plataformas freelancer, criando desde simples blogs e Landing Pages ate mesmo e-commerce sempre focado em otimizar o Ux, e tornar os aplicativos mais fluidos e otimizados, com o máximo de qualidade.
 
 Em sua empresa procuro a oportunidade de criar melhores web applications, valorizando a experiência do usuário, com responsabilidade e comprometimento
@@ -19,13 +19,12 @@ trabalhando como Full-stack Typescript
   
 ##
 <div style="display: inline_block"><br>
+    <img align="center" alt="Gab-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Gab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gab-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Gab-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Gab-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gab-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
