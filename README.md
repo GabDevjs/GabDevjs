@@ -1,5 +1,5 @@
 # :octocat: Ola, meu nome é Flavio Gabriel.   
-Sou um dedicado desenvolvedor web, no início do que pretendo ser uma longa e bem-sucedida carreira, pela qual sou apaixonado, possuo 2 ano de experiência em Typescript, Javascript,  HTML/Css, React, Next e NodeJs, programando diferentes tipos de aplicações para clientes locais, e para diversas plataformas freelancer, criando desde simples blogs e Landing Pages ate mesmo e-commerce sempre focado em otimizar o Ux, e tornar os aplicativos mais fluidos e otimizados, com o máximo de qualidade.
+Sou um dedicado desenvolvedor web, no início do que pretendo ser uma longa e bem-sucedida carreira, pela qual sou apaixonado, possuo 1 ano de experiência em Typescript, Javascript,  HTML/Css, React, Next e NodeJs, programando diferentes tipos de aplicações para clientes locais, e para diversas plataformas freelancer, criando desde simples blogs e Landing Pages ate mesmo e-commerce sempre focado em otimizar o Ux, e tornar os aplicativos mais fluidos e otimizados, com o máximo de qualidade.
 
 Em sua empresa procuro a oportunidade de criar melhores web applications, valorizando a experiência do usuário, com responsabilidade e comprometimento
 
