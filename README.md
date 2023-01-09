@@ -23,4 +23,3 @@ Sou um desenvolvedor web apaixonado por tecnologias como React, Next, Typescript
   <img align="center" alt="Gab-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-![Snake animation](https://github.com/GabDevjs/GabDevjs/blob/output/github-contribution-grid-snake.svg)
