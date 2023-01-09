@@ -1,6 +1,6 @@
 #  Ola, meu nome é Flavio Gabriel.   
 
-Desenvolvedor web apaixonado por React, Next, Typescript e Node.js. Crio aplicativos incríveis com ótima experiência do usuário e estou sempre procurando por novas oportunidades de crescimento e aprendizado. Trabalho como full-stack Typescript em uma empresa de desenvolvimento de software, mas estou sempre aberto a novas oportunidades. Siga-me para ficar por dentro das minhas últimas criações e projetos!
+Sou um desenvolvedor web apaixonado por tecnologias como React, Next, Typescript e Node.js. Tenho experiência em criar aplicativos web incríveis que proporcionam uma ótima experiência ao usuário, e estou sempre em busca de novas oportunidades de crescimento e aprendizado. Atualmente, trabalho como full-stack Typescript em uma empresa de desenvolvimento de software, mas estou sempre aberto a novas oportunidades. Adoro compartilhar meus conhecimentos e experiências com a comunidade de tecnologia, então sinta-se à vontade para entrar em contato comigo ou me seguir para ficar por dentro de meus últimos projetos e publicações.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/flavio-gabriel77/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:flaviogabrieljoobs@gmail.com)
