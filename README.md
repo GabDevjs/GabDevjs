@@ -10,7 +10,6 @@ Sou um desenvolvedor web apaixonado por tecnologias como React, Next, Typescript
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabDevjs&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-##
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
