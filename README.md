@@ -5,7 +5,7 @@ Sou um desenvolvedor web apaixonado por tecnologias como React, Next, Typescript
 <p><a href="https://github.com/GabDevjs" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/flavio-gabriel77/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.gabdevportfolio.me/" target="_blank"><img alt="Meu site" src="https://img.shields.io/badge/site-%2312100E.svg?&style=for-the-badge&logo=Iconify&logoColor=white" /></a>
   
 <div>
-  <a href="https://github.com/GabrielJS77">
+  <a href="https://github.com/GabDevjs">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabDevjs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabDevjs&layout=compact&langs_count=16&theme=dark"/>
 </div>
