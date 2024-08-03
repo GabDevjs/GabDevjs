@@ -1,17 +1,60 @@
-# 😆 que bom velo aqui!
+<div align="center">
+  <img height="150" src="./assets/Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png"  />
+</div>
 
-Sou um desenvolvedor web apaixonado por tecnologias como React, Next, Typescript e Node.js. Tenho experiência em criar aplicativos web incríveis que proporcionam uma ótima experiência ao usuário, e estou sempre em busca de novas oportunidades de crescimento e aprendizado. Atualmente, trabalho como full-stack Typescript em uma empresa de desenvolvimento de software, mas estou sempre aberto a novas oportunidades. Adoro compartilhar meus conhecimentos e experiências com a comunidade de tecnologia, então sinta-se à vontade para entrar em contato comigo ou me seguir para ficar por dentro de meus últimos projetos e publicações.
+###
 
-<p><a href="https://github.com/GabDevjs" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/flavio-gabriel77/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.flaviogabrielportfolio.com.br/" target="_blank"><img alt="Meu site" src="https://img.shields.io/badge/site-%2312100E.svg?&style=for-the-badge&logo=Iconify&logoColor=white" /></a>
-  
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F4D03F?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-566573?style=flat-square&logo=Next.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-</p>
+<p align="center"><a href="https://github.com/GabDevjs" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/flavio-gabriel77/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.flaviogabrielportfolio.com.br/" target="_blank"><img alt="Meu site" src="https://img.shields.io/badge/site-%2312100E.svg?&style=for-the-badge&logo=Iconify&logoColor=white" /></a>
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+###
+
+<p align="left">I'm Flávio Gabriel from São Paulo, Brazil.<br><br>- 🔭 I’m working as a Full Stack Developer with over 3 years of experience.<br>- 📚 I'm currently learning and improving my skills in the latest technologies.<br>- ⚡ In my free time I enjoy discussing a wide range of topics, especially science and technology.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="40" alt="adonis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="adonis logo"  />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="adonis logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GabDevjs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/GabDevjs/GabDevjs/output/github-snake-dark.svg)
+
