@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="./assets/Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png"  />
+  <img height="250" src="./assets/Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png"  />
 </div>
 
 ###
